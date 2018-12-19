@@ -1,0 +1,7 @@
+1|Killian|Meat|Hunting dog||||DOG
+2|Parrot one|Grain||0.25|CAN_NOT_SPEAK||PARROT
+3|Chicken one|Corn||0.75||BROILER|CHICKEN
+4|Rocky|Fresh meat|Working dog||||DOG
+5|Parrot two|Corn||0.5|CAN_SPEAK||PARROT
+6|Peter|Pedigree|Sport dog||||DOG
+7|Rocky|Corn||0.75||NOT_BROILER|CHICKEN
